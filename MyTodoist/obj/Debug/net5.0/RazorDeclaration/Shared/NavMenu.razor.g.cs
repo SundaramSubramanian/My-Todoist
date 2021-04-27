@@ -90,7 +90,7 @@ using MyTodoist.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "D:\Projects\My-Todoist\MyTodoist\Shared\NavMenu.razor"
+#line 33 "D:\Projects\My-Todoist\MyTodoist\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 
